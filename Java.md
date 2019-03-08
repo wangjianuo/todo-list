@@ -17,9 +17,6 @@
 - MyBaits
 - JPA
 
-### DB
-- MySQL
-
 ### 服务器
 - Tomcat
 - Nginx
@@ -35,29 +32,3 @@
 ### 工具
 - Maven
 - Git
-
-### 容器
-- Docker
-- K8S
-
-### 大数据
-- Hadoop
-- HDFS
-- MapReduce
-- Hbase
-- Pig
-- Hive
-- Spark
-- Storm
-
-
-### Linux
-- setup
-    - mysql
-    - nginx
-    - tomcat
-    - jdk
-    - elk
-    - docker
-- 基础命令
-
